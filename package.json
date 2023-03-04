@@ -17,14 +17,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/GoldBoy1001/dom"
+		"url": "git+https://github.com/GoldBoy1001/dom/"
 	},
 	"author": " ",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/GoldBoy1001/dom"
+		"url": "https://github.com/GoldBoy1001/dom/"
 	},
-	"homepage": "https:///GoldBoy1001.github.io/dom",
+	"homepage": "https:///GoldBoy1001.github.io/dom/",
 	"devDependencies": {
 		"@babel/cli": "^7.19.3",
 		"@babel/core": "^7.20.2",
